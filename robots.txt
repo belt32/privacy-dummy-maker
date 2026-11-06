@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belt32.github.io/privacy-dummy-maker/sitemap.xml
